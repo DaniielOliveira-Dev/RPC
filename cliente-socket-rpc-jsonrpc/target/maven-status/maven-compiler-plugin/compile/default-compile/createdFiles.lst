@@ -1,0 +1,11 @@
+com\ramyres\servicos\PiService.class
+com\ramyres\protocolo\JsonRpcError.class
+com\ramyres\servicos\BaskaraService.class
+com\ramyres\stub\ClienteRpc.class
+com\ramyres\Main.class
+com\ramyres\ui\tui\UserInterfaceTui.class
+com\ramyres\model\Raizes.class
+com\ramyres\protocolo\JsonRpcRequest.class
+com\ramyres\servicos\PalavrasService.class
+com\ramyres\model\EstatisticaDoTexto.class
+com\ramyres\protocolo\JsonRpcResponse.class

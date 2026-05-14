@@ -1,0 +1,10 @@
+com\ramyres\servicos\PiService.class
+com\ramyres\protocolo\JsonRpcError.class
+com\ramyres\servicos\BaskaraService.class
+com\ramyres\server\Server$1.class
+com\ramyres\server\Server.class
+com\ramyres\Main.class
+com\ramyres\servicos\ServiceInterface.class
+com\ramyres\protocolo\JsonRpcRequest.class
+com\ramyres\servicos\PalavrasService.class
+com\ramyres\protocolo\JsonRpcResponse.class
